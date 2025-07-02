@@ -15,7 +15,7 @@ Hola, soy un desarrollado de aplicaciones web y de escritorio, y pronto móvil. 
 
 \- 🔧 Automatización con JavaScript, Node.js y APIs
 
-\- ⚙ Servicios con PHP y Express
+\- ⚙ Servicios backend con PHP y Express
 
 \- 📱 Aprendiendo Flutter para apps móviles
 
