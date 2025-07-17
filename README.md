@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desarrollador de Software Fullstack
 -----------------------------------
 
-Hola, soy un desarrollado de aplicaciones web y de escritorio, y pronto móvil. Trabajo bajo la filosofía de "Forjado en las sombras del código, construido para el mañana"
+Hola, soy Brandon Gutiérrez un desarrollado de aplicaciones web y de escritorio, y pronto móvil y creador de este proyecto llamado Code Creed. Trabajo bajo la filosofía de "Forjado en las sombras del código, construido para el mañana"
 
 
 \### ⚔️ ¿Quién soy?
